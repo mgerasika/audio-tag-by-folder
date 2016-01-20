@@ -1,30 +1,32 @@
 ### audio-tag-by-folder
 ####Change audio tag names by folder.
 
-music
-  pop                                            album              artist
-    audio A.mp3                                    album A            artist A
-    audio B.mp3                                    album B            artist B
-    audio C.mp3                                    album C            artist C
-  
-  rock                                            album              artist
-    audio A.mp3                                    album A            artist A
-    audio B.mp3                                    album B            artist B
-    audio C.mp3                                    album C            artist C
+
+
+music<br/>
+  [name]--------------------------------------------[album]-------[artist]<br/>
+  --pop<br/>
+  ----audio A.mp3-----------------------------------album A-------artist A<br/>
+  ----audio B.mp3-----------------------------------album B-------artist B<br/>
+  ----audio C.mp3-----------------------------------album C-------artist C<br/>
+  --rock<br/>
+  ----audio A.mp3-----------------------------------album A-------artist A<br/>
+  ----audio B.mp3-----------------------------------album B-------artist B<br/>
+  ----audio C.mp3-----------------------------------album C-------artist C<br/>
     
 
 after runing application you have changed [album] and [album artist] tags to root folder name
 
-music
-  pop                                            album              artist
-    audio A.mp3                                    pop                pop
-    audio B.mp3                                    pop                pop
-    audio C.mp3                                    pop                pop
-  
-rock                                            album               artist
-    audio A.mp3                                    rock               rock
-    audio B.mp3                                    rock               rock
-    audio C.mp3                                    rock               rock
+music<br/>
+  [name]--------------------------------------------[album]-------[artist]<br/>
+  --pop<br/>
+  ----audio A.mp3-------------------------------------pop-------pop<br/>
+  ----audio B.mp3-------------------------------------pop-------pop<br/>
+  ----audio C.mp3-------------------------------------pop-------pop<br/>
+  --rock<br/>
+  ----audio A.mp3-------------------------------------rock-------rock<br/>
+  ----audio B.mp3-------------------------------------rock-------rock<br/>
+  ----audio C.mp3-------------------------------------rock-------rock<br/>
 
 I use it in mp3 player and in car audio.
 
