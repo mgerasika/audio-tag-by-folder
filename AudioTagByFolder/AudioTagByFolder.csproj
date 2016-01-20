@@ -7,8 +7,8 @@
     <ProjectGuid>{12EB08D2-BFB2-4408-B4CE-E639B2E6EBA5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MusicFileRename</RootNamespace>
-    <AssemblyName>MusicFileRename</AssemblyName>
+    <RootNamespace>AudioTagByFolder</RootNamespace>
+    <AssemblyName>AudioTagByFolder</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
