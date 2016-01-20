@@ -1,0 +1,6 @@
+D:\Projects\git\audio-tag-by-folder\AudioTagByFolder\bin\Release\AudioTagByFolder.exe.config
+D:\Projects\git\audio-tag-by-folder\AudioTagByFolder\bin\Release\AudioTagByFolder.exe
+D:\Projects\git\audio-tag-by-folder\AudioTagByFolder\bin\Release\AudioTagByFolder.pdb
+D:\Projects\git\audio-tag-by-folder\AudioTagByFolder\bin\Release\taglib-sharp.dll
+D:\Projects\git\audio-tag-by-folder\AudioTagByFolder\obj\Release\AudioTagByFolder.exe
+D:\Projects\git\audio-tag-by-folder\AudioTagByFolder\obj\Release\AudioTagByFolder.pdb
