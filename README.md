@@ -30,4 +30,4 @@ music<br/>
 
 I use it in mp3 player and in car audio.
 
-Download by 
+[download zip](https://github.com/mgerasika/audio-tag-by-folder/raw/master/AudioTagByFolder/AudioTabByFolder.zip)
